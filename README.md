@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Vladyslav 👋
 
-<!--
-**dema-git/dema-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Developer working with Python, Django, FastAPI, PostgreSQL.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python 3.11
+- FastAPI, Django
+- PostgreSQL, SQLAlchemy
+- Docker, GitLab CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [EventTracker API](https://github.com/vladyslav/EventTracker)
+- [Portfolio Website](https://github.com/vladyslav/portfolio)
+
+## 📫 Contact
+- Email: vladyslav@example.com
+- LinkedIn: [Vladyslav](https://www.linkedin.com/in/vladyslav-demenkov-84167226a/)
