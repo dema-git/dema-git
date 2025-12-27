@@ -1,15 +1,15 @@
 # Hi, I'm Vladyslav 👋
 
-Backend / Full-Stack Developer with commercial experience in building
+Backend / Full-Stack Developer with experience in building
 and maintaining production systems. Strong focus on database performance,
 data pipelines, and maintainable backend architectures.
 
 ## 🔧 Tech Stack
-- Python 3.11
+- Python
 - Django, FastAPI
 - PostgreSQL, SQLAlchemy
 - HTMX
-- Docker, GitLab CI/CD
+- Docker, GitLab
 - Kafka, Airflow
 - MinIO
 
@@ -68,4 +68,5 @@ into smaller, more maintainable structures.
 - Writing maintainable and readable code
 
 ## 📫 Contact
-- 💼 LinkedIn: https://www.linkedin.com/in/vladyslav-demenkov-84167226a/
+Email: example@gmail.com  
+LinkedIn: https://www.linkedin.com/in/vladyslav-demenkov-84167226a/
