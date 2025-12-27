@@ -33,7 +33,7 @@ into PostgreSQL using Airflow DAGs.
 - ML-based session generation (LLaMA)
 - Kafka for event streaming
 - MinIO for batch storage
-- Airflow DAGs triggered via API endpoints
+- Airflow DAGs invoking backend services via API
 - PostgreSQL as the final analytical store
 
 **Tech:**  
