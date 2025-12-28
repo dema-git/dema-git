@@ -68,5 +68,5 @@ into smaller, more maintainable structures.
 - Writing maintainable and readable code
 
 ## 📫 Contact
-Email: example@gmail.com  
+Email: demenkov.dev@gmail.com  
 LinkedIn: https://www.linkedin.com/in/vladyslav-demenkov-84167226a/
