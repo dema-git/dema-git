@@ -56,7 +56,7 @@ into smaller, more maintainable structures.
 - Gradual read-switch strategy
 
 **Tech:**  
-`PostgreSQL · Kafka · Alembic · Python · WAL / CDC concepts`
+`PostgreSQL · Kafka · Python · WAL / CDC concepts · Debezium · Grafana`
 
 ---
 
