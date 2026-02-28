@@ -48,7 +48,7 @@ Research and implementation of safe database schema evolution strategies
 without service downtime. Focused on refactoring large production tables
 into smaller, more maintainable structures.
 
-**Planned approach:**
+**Key components:**
 - Parallel old/new schemas
 - Dual writes via Kafka
 - Batch backfilling of historical data
