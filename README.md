@@ -41,7 +41,7 @@ via Airflow-orchestrated workflows.
 
 ---
 
-### 🔹 Zero-Downtime Database Migrations *(in progress)*
+### 🔹 Zero-Downtime Database Migrations
 🔗 **Repository:** *https://github.com/dema-git/cdc-zero-downtime-migration*  
 
 Research and implementation of safe database schema evolution strategies
