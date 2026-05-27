@@ -41,6 +41,27 @@ via Airflow-orchestrated workflows.
 
 ---
 
+### 🔹 AI Data Quality Ops
+🔗 **Repository:** *https://github.com/dema-git/ai-data-quality-ops*
+
+Data quality operations layer built on top of a Medallion ETL pipeline.  
+It adds controlled bad-data generation, deterministic validation, quarantine reports, 
+incident routing, and optional OpenAI-based explanations for detected data-quality issues.
+
+**Key components:**
+- Controlled bad-data injection
+- Deterministic validation before Silver processing
+- Quarantine bucket for rejected records
+- Quality issue summary and incident reports
+- Rule-based routing to specialist incident profiles
+- Mock/OpenAI modes for incident explanation
+- Dashboard with quality metrics and AI-generated analysis
+
+**Tech:**  
+`Python · FastAPI · Kafka · Airflow · MinIO · PostgreSQL · OpenAI API`
+
+---
+
 ### 🔹 Zero-Downtime Database Migrations
 🔗 **Repository:** *https://github.com/dema-git/cdc-zero-downtime-migration*  
 
